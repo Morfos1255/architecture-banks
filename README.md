@@ -1,5 +1,5 @@
 # architecture-banks
 OOP Lab 5 - Banks
 
-# Command
+# Team Members
 * Gumerov Mark
